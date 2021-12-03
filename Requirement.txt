@@ -1,0 +1,8 @@
+numpy
+Pandas
+matplotlib
+seaborn
+sklearn
+Jupyter Notebook
+confusion_matrix
+accuracy_score
